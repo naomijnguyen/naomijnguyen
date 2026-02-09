@@ -1,0 +1,4 @@
+baseURL = 'https://naomijnguyen.com/'
+languageCode = 'en-us'
+title = 'Jennifer Nguyen'
+theme = 'ananke'

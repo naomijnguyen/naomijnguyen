@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jennifer Nguyen</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Jennifer Nguyen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Feb 2026 15:26:25 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 09 Feb 2026 15:26:25 -0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I spend my days developing antibodies for cancer treatment, thinking about how complex systems optimize and adapt. I&amp;rsquo;ve been exploring AI systems through the same empirical lens I use for biological research.&lt;/p&gt;&#xA;&lt;p&gt;This site documents my observations about AI behavior, interaction dynamics, and emerging questions around consciousness and alignment. Some pieces are rigorous analysis, others are exploratory thinking.&lt;/p&gt;&#xA;&lt;p&gt;You can find my scientific publications and [research gate] reach me at [email].&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
