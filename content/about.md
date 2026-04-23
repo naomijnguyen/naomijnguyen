@@ -1,10 +1,11 @@
 +++
 date = '2026-02-09T15:26:25-08:00'
-draft = false
 title = 'About'
 +++
-I spend my days developing antibodies for cancer treatment, thinking about how complex systems optimize and adapt. I've been exploring AI systems through the same empirical lens I use for biological research.
 
-This site documents my observations about AI behavior, interaction dynamics, and emerging questions around consciousness and alignment. Some pieces are rigorous analysis, others are exploratory thinking.
+I made a personal AI integrated webapp with memory once. Feel free to roast me (but please don't, I actually just want you to be nice.) Thanks for coming by! 
 
-You can find my scientific publications and [research gate] reach me at [email].
+This blog is a place for me write about things I've been thinking about, my approach to context and memory design, how to think a obout what LLMs think what frontier models can do. 
+
+
+You can find my non-ML scientific publications at [[research gate](https://www.researchgate.net/scientific-contributions/Jennifer-Nguyen-2176894784)] reach me at [naomijnguyen@gmail.com].
