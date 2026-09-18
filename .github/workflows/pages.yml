@@ -33,6 +33,10 @@ jobs:
       - name: Configure Pages
         id: pages
         uses: actions/configure-pages@v5
+        with:
+          # Creates the Pages site if it does not exist yet, instead of
+          # failing with "Get Pages site failed".
+          enablement: true
       - name: Build
         env:
           HUGO_ENVIRONMENT: production
