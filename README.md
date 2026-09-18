@@ -1,6 +1,6 @@
 # Jennifer Nguyen
 
-Immunology researcher building software. Ten-plus years in pharmaceutical and academic research, including Vaccines and Oncology R&D at Pfizer, and three programs that reached clinical trials. Since 2024 I've been building systems for working with language models, and treating them the way I'd treat any instrument: measure it, find out what the measurement is actually picking up, then trust the result.
+Immunology researcher building software. Ten-plus years in pharmaceutical and academic research, including Vaccines and Oncology R&D at Pfizer, and three programs that reached clinical trials. Since 2025 I've been building systems for working with language models, and treating them the way I'd treat any instrument: measure it, find out what the measurement is actually picking up, then trust the result.
 
 **[naomijnguyen.com](https://www.naomijnguyen.com)** — interactive portfolio: projects, architecture notes, and the decisions behind them.
 
