@@ -1,4 +1,10 @@
-baseURL = 'https://naomijnguyen.com/'
+baseURL = 'https://naomijnguyen.github.io/'
 languageCode = 'en-us'
 title = 'Jennifer Nguyen'
 theme = 'ananke'
+
+[params]
+  description = 'Notes on AI systems, evaluation, and building software from a research background.'
+
+[markup.goldmark.renderer]
+  unsafe = true
