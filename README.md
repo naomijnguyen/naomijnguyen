@@ -13,9 +13,9 @@ Immunology researcher building software. Ten-plus years in pharmaceutical and ac
 
 ### Tech stack and AI collaboration
 
-This profile and research-notes repository uses Hugo, Markdown, HTML, and CSS.
+I build with JavaScript, TypeScript, Python, React, Node.js, npm, HTML, CSS, Markdown, Hugo, Cloudflare Workers, Git, GitHub, and Visual Studio Code.
 
-Since 2025, I’ve been making software in active collaboration with AI coding systems across providers, including Claude and Claude Code from Anthropic and Codex from OpenAI. The projects above are what I made through that collaboration, and I want to do more of it.
+Since 2025, I’ve been making software in active collaboration with AI coding systems across providers: Claude and Claude Code from Anthropic, Codex from OpenAI, GitHub Copilot from GitHub and Microsoft, Gemini from Google, and Grok from xAI. These projects are what I made through that collaboration, and I want to do more of it.
 
 ### Elsewhere
 
