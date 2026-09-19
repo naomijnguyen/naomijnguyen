@@ -11,6 +11,12 @@ Immunology researcher building software. Ten-plus years in pharmaceutical and ac
 - **Agent coordination** — five coding agents against one repository, with bounded assignments, backward tracing from symptom to cause, and independent verification of each fix.
 - **96-well plate analyzer** — plate maps and reader output into results I can interpret, built from the version of that task I used to do by hand.
 
+### Tech stack and AI collaboration
+
+This profile and research-notes repository uses Hugo, Markdown, HTML, and CSS.
+
+Since 2025, I’ve been making software in active collaboration with AI coding systems across providers, including Claude and Claude Code from Anthropic and Codex from OpenAI. The projects above are what I made through that collaboration, and I want to do more of it.
+
 ### Elsewhere
 
 [Portfolio](https://www.naomijnguyen.com) · [ORCID](https://orcid.org/0000-0001-8295-6767) · [naomi@naomijnguyen.com](mailto:naomi@naomijnguyen.com)
