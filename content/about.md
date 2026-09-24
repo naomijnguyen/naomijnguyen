@@ -5,7 +5,7 @@ title = 'About'
 +++
 I'm Jennifer, an immunology researcher who moved into building software. I spent more than ten years in pharmaceutical and academic research, including Vaccines and Oncology R&D at Pfizer, and contributed to three programs that reached clinical trials.
 
-Since 2024 I've been building software and learning as I go — mostly systems for working with language models: context and memory, routing across providers, evaluation harnesses, and the observability underneath them.
+Since June 2025 I've been building software and learning as I go — mostly systems for working with language models: context and memory, routing across providers, evaluation harnesses, and the observability underneath them.
 
 This site is for the research side of that work: longer, rougher, published while I'm still working it out. The finished projects live on [naomijnguyen.com](https://www.naomijnguyen.com).
 
