@@ -1,6 +1,6 @@
 baseURL = 'https://naomijnguyen.github.io/'
 locale = 'en-us'
-title = 'Jennifer Nguyen'
+title = 'Jennifer Naomi Nguyen'
 theme = 'ananke'
 
 [params]
