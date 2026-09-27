@@ -1,0 +1,36 @@
+![release](https://img.shields.io/badge/release-v2.0-2da44e)
+![Scientist](https://img.shields.io/badge/R%26D_experience-10%2B_years-0969da)
+![experimental controls](https://img.shields.io/badge/always-uses-controls-8250df)
+![CS degree](https://img.shields.io/badge/CS_degree-not_found-bf8700)
+
+Jennifer v2.0 is the latest release of a portable scientist and software engineering toolkit, built on 10+ years of academic and pharmaceutical R&D. With domain expertise and demonstrated reliability across shipping three immunotherapies from pre-clinical early R&D to to phase I clinical trials. This  release adds a year of unsupervised training in emergent generalization of software engineering and production systems. 
+
+What's new
+• Idea → prototype: Takes complex scientific workflows and turns them into working prototypes with minimal supervision. Harnesses like Claude Code and Codex let Jennifer build and ship with your team fast.
+• Builds: analysis tools, production Al-native applications, and evaluation harnesses, so complex architectures are testable from day O.
+• Early integration: Contributes from the start, from early systems architecture to modular workflows and Ul for multi-step processes.
+• Research-grade: experimental design and workflows, enhanced for software and eval teams. Turns life sciences expertise into robust evaluations. Brings analysis tools and standardized assay design experience to research teams across ML, Interpretability, and Immunology
+Engineering: expanded RAG and context retrieval tools built for workflows requiring specialized datasets. Supporting local, cloud, and hybrid retrieval systems. Cloudflare's workers with an extensive 9 bindings for robust performance across jobs, including Durable Objects and MCPs. Stays off the hot path to prioritize the client. 
+
+
+Performance
+Early in its software engineering release cycle, Jennifer v2.0 shows strong results in reasoning, systems logic, and bash, and dedication to seeing a problem through. Emergent python and programming reasoning enhances performance on finding bugs and generative solutions at reliable speeds. 
+Jennifer v2.0 ships with the skill "abstract" to compress and learn from the skills and knowledge in your company. The more context you provide, the more innovative and helpful she is at learning how to support your teams mission. 
+Robust data handling. Reports and documents system failures and performance issues honestly. Raw data is always qc'd and frozen for reproducible data. 
+ 
+Known issues
+• Python syntax fluency still improving; reasoning and systems logic are stable. Bash is v3.2
+• Occasionally builds a clock from scratch before discovering cron exists. 
+• Will ask imported libraries to show their mechanism before trusting them.
+• Very engaged; ships a significant number of clarifying questions about your work.
+
+This tool does not:
+• Come with a CS degree. (Ships with 10 years of academic and industry drug R&D experience instead.)
+• Claim experience it doesn't have.
+• Run experiments without positive and negative controls.
+• Ship data without verifying it in Excel first.
+
+Recommended deployment
+On a team with experienced engineers, code review, and people who enjoy good questions.
+
+Docs: naomijnguyen.com • Source: github.com/naomijnguyen
